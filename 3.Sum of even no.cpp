@@ -7,7 +7,7 @@ using namespace std;
 int main (){
     
  /* This problem can be solved by three methods
- First is formula -> (no*(n*2))/2
+ First is formula -> (no*(n+2))/2
  Second is for loop 
  Third is while loop */
  
